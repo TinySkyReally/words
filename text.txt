@@ -1,0 +1,10 @@
+'house', 'dog', 'cat', 'tree', 'car', 'child', 'woman', 'man', 'mountain', 'forest',
+ 'river', 'shop', 'school', 'train', 'city', 'book', 'chair', 'table', 'lamp', 'bicycle',
+ 'glass', 'flower', 'grass', 'song', 'game', 'magazine', 'newspaper', 'airplane', 'bread', 'milk',
+ 'vegetable', 'fruit', 'computer', 'phone', 'keyboard', 'mouse', 'picture', 'painting', 'sculpture', 'station',
+ 'park', 'townhall', 'mountains', 'sea', 'sun', 'star', 'moon', 'sky', 'rain', 'snow',
+ 'wind', 'door', 'window', 'bed', 'sofa', 'carpet', 'mirror', 'paper', 'pencil', 'pen',
+ 'teacher', 'student', 'professor', 'chef', 'waitress', 'doctor', 'police', 'firefighter', 'driver', 'seller',
+ 'hairdresser', 'singer', 'actor', 'painter', 'architect', 'engineer', 'lawyer', 'judge', 'shoes', 'coat',
+ 'pants', 'shirt', 'dress', 'skirt', 'hat', 'cap', 'gloves', 'scarf', 'television', 'radio',
+ 'post', 'ATM', 'money', 'receipt', 'ticket', 'train', 'bus', 'plane', 'tram', 'subway'
